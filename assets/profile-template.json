@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.1",
+  "updated_at": "YYYY-MM-DD",
+  "people": [
+    {
+      "name": "姓名",
+      "category": "家人",
+      "family_role": "妈妈",
+      "gender": "女",
+      "birth_year": "1965",
+      "birthday_type": "lunar",
+      "lunar_birthday": "六月初三",
+      "lunar_leap_month": false,
+      "zodiac_sign": "",
+      "age": 0,
+      "interests": ["爱好1", "爱好2"],
+      "gift_notes": "送过什么/忌讳/偏好",
+      "budget_range": "200-500",
+      "annual_birthday": {}
+    }
+  ]
+}

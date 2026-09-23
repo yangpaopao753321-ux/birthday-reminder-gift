@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.1",
+  "updated_at": "2026-09-23",
+  "people": [
+    {
+      "name": "小明",
+      "category": "朋友",
+      "family_role": "",
+      "gender": "男",
+      "birth_year": "1996",
+      "birthday_type": "lunar",
+      "lunar_birthday": "五月初二",
+      "lunar_leap_month": false,
+      "zodiac_sign": "双子座",
+      "age": 30,
+      "interests": ["骑行", "咖啡手冲"],
+      "gift_notes": "去年送过骑行手套，对电子烟无感",
+      "budget_range": "200-400",
+      "annual_birthday": {
+        "2025": "2025-05-28",
+        "2026": "2026-06-16"
+      }
+    },
+    {
+      "name": "小红",
+      "category": "伴侣",
+      "family_role": "",
+      "gender": "女",
+      "birth_year": "1998",
+      "birthday_type": "lunar",
+      "lunar_birthday": "八月十五",
+      "lunar_leap_month": false,
+      "zodiac_sign": "天秤座",
+      "age": 28,
+      "interests": ["摄影", "烘焙"],
+      "gift_notes": "想要富士胶片模拟相关的，过敏不能送鲜花",
+      "budget_range": "500-1000",
+      "annual_birthday": {
+        "2025": "2025-10-06",
+        "2026": "2026-09-25"
+      }
+    },
+    {
+      "name": "张阿姨",
+      "category": "家人",
+      "family_role": "妈妈",
+      "gender": "女",
+      "birth_year": "1968",
+      "birthday_type": "lunar",
+      "lunar_birthday": "三月初九",
+      "lunar_leap_month": false,
+      "zodiac_sign": "白羊座",
+      "age": 58,
+      "interests": ["广场舞", "养生壶", "看电视剧"],
+      "gift_notes": "对花哨的不感兴趣，喜欢实用耐用品",
+      "budget_range": "300-600",
+      "annual_birthday": {
+        "2025": "2025-04-06",
+        "2026": "2026-04-25"
+      }
+    }
+  ]
+}
